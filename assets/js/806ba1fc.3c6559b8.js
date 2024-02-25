@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfpiras_89_github_io=self.webpackChunkfpiras_89_github_io||[]).push([[156],{1390:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/tags/facebook","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);

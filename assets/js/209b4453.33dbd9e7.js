@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfpiras_89_github_io=self.webpackChunkfpiras_89_github_io||[]).push([[380],{7372:s=>{s.exports=JSON.parse('{"permalink":"/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

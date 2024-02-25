@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfpiras_89_github_io=self.webpackChunkfpiras_89_github_io||[]).push([[588],{7101:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/tags/docusaurus","allTagsPath":"/tags","count":4,"unlisted":false}')}}]);

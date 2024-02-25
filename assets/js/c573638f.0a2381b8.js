@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfpiras_89_github_io=self.webpackChunkfpiras_89_github_io||[]).push([[422],{1398:a=>{a.exports=JSON.parse('[{"label":"facebook","permalink":"/tags/facebook","count":1},{"label":"hello","permalink":"/tags/hello","count":2},{"label":"docusaurus","permalink":"/tags/docusaurus","count":4},{"label":"hola","permalink":"/tags/hola","count":1}]')}}]);
